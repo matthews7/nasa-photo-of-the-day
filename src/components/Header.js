@@ -14,7 +14,7 @@ export default function Header (props){
 
     return(
         <div className="title">
-            <TitleH1>Nasa Photo of the Day: <span>{props.date}</span></TitleH1>
+            <TitleH1>Astronomy Photo of the Day: <span>{props.date}</span></TitleH1>
             
         </div>
     )
